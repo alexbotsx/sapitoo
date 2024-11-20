@@ -11,43 +11,43 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['595984303784', 'Botcito Sexi', true],
-  ['595984303784', 'Botcito Sexi 1', true],
-  ['595984303784', 'Botcito Sexi 2', true],
-  ['595984303784', 'Botcito Sexi 3', true],
-  ['595984303784', 'Botcito Sexi 4', true],
-  ['595984303784', 'Botcito Sexi 5', true],
-  ['595984303784', 'Botcito Sexi 6', false],
-  ['595984303784', 'Botcito Sexi 7', true],
-  ['595984303784', 'Botcito Sexi 8', true],
-  ['595984303784', 'Botcito Sexi 9', true],
-  ['595984303784', 'Botcito Sexi 19', true], 
-  ['595984303784', 'Botcito Sexi 11', true],
-  ['595984303784', 'Botcito Sexi 12', true], 
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784'], 
-  ['595984303784'],  
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784'], 
-  ['595984303784'], 
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784'], 
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784']
+  ['51986914403', 'Botcito Sexi', true],
+  ['51986914403', 'Botcito Sexi 1', true],
+  ['51986914403', 'Botcito Sexi 2', true],
+  ['51986914403', 'Botcito Sexi 3', true],
+  ['51986914403', 'Botcito Sexi 4', true],
+  ['51986914403', 'Botcito Sexi 5', true],
+  ['51986914403', 'Botcito Sexi 6', false],
+  ['51986914403', 'Botcito Sexi 7', true],
+  ['51986914403', 'Botcito Sexi 8', true],
+  ['51986914403', 'Botcito Sexi 9', true],
+  ['51986914403', 'Botcito Sexi 19', true], 
+  ['51986914403', 'Botcito Sexi 11', true],
+  ['51986914403', 'Botcito Sexi 12', true], 
+  ['51986914403'],
+  ['51986914403'],
+  ['51986914403'],
+  ['51986914403'],
+  ['51986914403'], 
+  ['51986914403'],  
+  ['51986914403'],
+  ['51986914403'],
+  ['51986914403'],
+  ['51986914403'], 
+  ['51986914403'], 
+  ['51986914403'],
+  ['51986914403'],
+  ['51986914403'],
+  ['51986914403'],
+  ['51986914403'], 
+  ['51986914403'],
+  ['51986914403'],
+  ['51986914403'],
+  ['51986914403']
 ];
 
-global.suittag = ['595984303784'];
-global.prems = ['595984303784'];
+global.suittag = ['51986914403'];
+global.prems = ['51986914403'];
 
 global.packname = 'Sticker';
 global.author = '𝗦𝗔𝗣𝗜𝗧𝗢 𝗕𝗢𝗧';
@@ -88,7 +88,7 @@ global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
 global.waittt = '*_[ ⏳ ] Cargando..._*';
 global.waitttt = '*_[ ⏳ ] Cargando..._*';
-global.nomorown = '595984303784';
+global.nomorown = '51986914403';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
