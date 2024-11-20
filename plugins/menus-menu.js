@@ -33,7 +33,7 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
     const str = `⫷♻♻♻♻♻♻♻ ⚡ ♻♻♻♻♻♻♻♻⪢
-🚀 Creador : 𝐆𝐇𝐎𝐒𝐓 𝐁𝐎𝐓
+🚀 Creador : 𝗦𝗔𝗣𝗜𝗧𝗢 𝗕𝗢𝗧
 🚀 Wa.me/595984303784
 🚀 Ventas : https://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT
 ⫷♻♻♻♻♻♻♻ 💘 ♻♻♻♻♻♻♻♻⪢

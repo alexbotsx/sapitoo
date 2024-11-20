@@ -51,7 +51,7 @@ ${tradutor.texto1[16]}
         'title': tradutor.texto2,
         'body': wm,
         'thumbnail': imagen1,
-        'sourceUrl': 'https://whatsapp.com/channel/0029VaFVSkRCMY0KFmCMDX2q'}},
+        'sourceUrl': '  https://www.instagram.com/yaritza.dzn05?igsh=MXg2dWhjdTV0eWxvaQ=='}},
     'caption': text,
     'footer': wm,
     // 'buttons':[

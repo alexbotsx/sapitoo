@@ -50,11 +50,11 @@ global.suittag = ['595984303784'];
 global.prems = ['595984303784'];
 
 global.packname = 'Sticker';
-global.author = '𝐆𝐇𝐎𝐒𝐓 𝐁𝐎𝐓';
-global.wm = '𝐆𝐇𝐎𝐒𝐓 𝐁𝐎𝐓';
-global.titulowm = '𝐆𝐇𝐎𝐒𝐓 𝐁𝐎𝐓';
-global.titulowm2 = `𝐆𝐇𝐎𝐒𝐓 𝐁𝐎𝐓`
-global.igfg = '𝐆𝐇𝐎𝐒𝐓 𝐁𝐎𝐓';
+global.author = '𝗦𝗔𝗣𝗜𝗧𝗢 𝗕𝗢𝗧';
+global.wm = '𝗦𝗔𝗣𝗜𝗧𝗢 𝗕𝗢𝗧';
+global.titulowm = '𝗦𝗔𝗣𝗜𝗧𝗢 𝗕𝗢𝗧';
+global.titulowm2 = `𝗦𝗔𝗣𝗜𝗧𝗢 𝗕𝗢𝗧`
+global.igfg = '𝗦𝗔𝗣𝗜𝗧𝗢 𝗕𝗢𝗧';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -79,10 +79,10 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n𝐆𝐇𝐎𝐒𝐓 𝐁𝐎𝐓`;
-global.gt = '𝐆𝐇𝐎𝐒𝐓 𝐁𝐎𝐓';
-global.mysticbot = '𝐆𝐇𝐎𝐒𝐓 𝐁𝐎𝐓';
-global.channel = 'https://whatsapp.com/channel/0029Vaein6eInlqIsCXpDs3y';
+global.wm2 = `${dia} ${fecha}\n����𝗧� ���`;
+global.gt = '����𝗧� ���';
+global.mysticbot = '����𝗧� ���';
+global.channel = ' https://www.instagram.com/yaritza.dzn05?igsh=MXg2dWhjdTV0eWxvaQ==';
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.waitt = '*_[ ⏳ ] Cargando..._*';

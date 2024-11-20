@@ -31,7 +31,7 @@ const handler = async (m, { conn, usedPrefix }) => {
   const wm = 'The Mystic Bot';
   const info = ` ${tradutor.texto1[0]}
 
-  ${tradutor.texto1[1]} 𝐆𝐇𝐎𝐒𝐓 𝐁𝐎𝐓
+  ${tradutor.texto1[1]} 𝗦𝗔𝗣𝗜𝗧𝗢 𝗕𝗢𝗧
   ${tradutor.texto1[2]} +595984303784
   ${tradutor.texto1[3]} https://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT
 
@@ -75,7 +75,7 @@ const handler = async (m, { conn, usedPrefix }) => {
         mediaUrl: "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
         mediaType: 2,
         previewType: "pdf",
-        title: "𝐆𝐇𝐎𝐒𝐓 𝐁𝐎𝐓",
+        title: "𝗦𝗔𝗣𝗜𝗧𝗢 𝗕𝗢𝗧",
         body: tradutor.texto2,
         thumbnail: imagen1,
         sourceUrl: "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
