@@ -34,7 +34,7 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
     const document = doc[Math.floor(Math.random() * doc.length)];
     const str = `┎━━━━━━━ ∙ʚ🤴🏻ɞ∙ ━━━━━━━┒
 ┃⭐ Creador : SAPITO BOT
-┃📞 Wa.me/51986914403
+┃📞 Wa.me/51968914403
 ┃https://www.instagram.com/yaritza.dzn05/profilecard/?igsh=cG83NHNkYzNrangy
 ┖━━━━━━━ ∙ʚ⚜️ɞ∙ ━━━━━━━┚
 

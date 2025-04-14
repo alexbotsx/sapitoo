@@ -32,7 +32,7 @@ const handler = async (m, { conn, usedPrefix }) => {
   const info = ` ${tradutor.texto1[0]}
 
   ${tradutor.texto1[1]} 𝗦𝗔𝗣𝗜𝗧𝗢 𝗕𝗢𝗧
-  ${tradutor.texto1[2]} +51986914403
+  ${tradutor.texto1[2]} +51968914403
   ${tradutor.texto1[3]} https://www.instagram.com/yaritza.dzn05/profilecard/?igsh=cG83NHNkYzNrangy
 
   ${tradutor.texto1[4]} ${rtime}
